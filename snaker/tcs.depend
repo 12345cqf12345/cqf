@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1746604468 source:d:\新建文件夹\c语言代码\c\tcs\main.c
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+
