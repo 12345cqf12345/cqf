@@ -1,3 +1,0 @@
-cqf 123456
-clp 123456
-user1 pass123
